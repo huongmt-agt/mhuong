@@ -7,11 +7,11 @@
 >[Nguồn: Wekipedia](vi.wikipedia.org/wiki/Murakami_Haruki)
 
 1. Hãy sử dụng phần mềm Exel để nhập bảng sau:
-|STT| Tên mặt hàng |  Đơn giá   | Số lượng | Thành tiền  |
-|---|:------------:|:----------:|:--------:|------------:|
-| 1 | NRC Sunlight |  28.000    |    1     |   28.000    |
-| 2 | GVS HN K lõi |  86.000    |    1     |   86.000    |
-| 3 | SC Vinamilk  |   6.500    |    4     |   26.000    |
+|STT|Tên mặt hàng |  Đơn giá   | Số lượng | Thành tiền  |
+|---|:-----------:|:----------:|:--------:|------------:|
+| 1 |NRC Sunlight |  28.000    |    1     |   28.000    |
+| 2 |GVS HN K lõi |  86.000    |    1     |   86.000    |
+| 3 |SC Vinamilk  |   6.500    |    4     |   26.000    |
 2. Tính tổng số tiền, tổng số lượng của các mặt hàng.
 
 ![alt text](http://blog-imgs-47.fc2.com/n/i/j/nijiirokyozai/meishi_bingo.jpg)
