@@ -1,7 +1,7 @@
 # 自己紹介
 
-
 はじめまして。わたしは**フオン**です。ことし26です。ニンビンからきました。
+
 **_よろしく　おねがいします_**
 
 >Haruki Murakami (sinh ngày 12 tháng 1 năm 1949) là một trong những tiểu thuyết gia, dịch giả văn học người Nhật Bản được biết đến nhiều nhất hiện nay cả trong lẫn ngoài nước Nhật.
