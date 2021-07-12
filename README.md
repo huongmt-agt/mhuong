@@ -14,5 +14,9 @@
  |  2  | GVS HN K lõi |  86.000    |    1     |   86.000    |
  |  3  | SC Vinamilk  |   6.500    |    4     |   26.000    |
 2. Tính tổng số tiền, tổng số lượng của các mặt hàng.
-
+|       A       |      B        | C     |
+| :------------:|:-------------:|:-----:|
+|    3          |        2      |  1    |
+|     2         |        4      |   1   |
+|     a         | b             |    d  |
 ![alt text](http://blog-imgs-47.fc2.com/n/i/j/nijiirokyozai/meishi_bingo.jpg)
